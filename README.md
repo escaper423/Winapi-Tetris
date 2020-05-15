@@ -1,5 +1,5 @@
 # Simple Tetris using winapi
-## Key Configurations
+## Key Configuration
 - Arrow up: Rotate
 - Arrow right: Move right
 - Arrow left: Move left
